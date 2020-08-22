@@ -2,7 +2,7 @@
 
 ##  [Hua Peng@StataCorp][hpeng]
 ### 2020 Stata 中国用户大会
-### [https://huapeng01016.gitee.io/china2020/](https://huapeng01016.gitee.io/china2020/index.html)
+### [https://huapeng01016.github.io/china2020/](https://huapeng01016.github.io/china2020)
 
 
 # 数据的获取
